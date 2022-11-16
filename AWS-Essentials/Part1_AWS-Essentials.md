@@ -28,6 +28,9 @@
 * **Understand and use Auto Scaling (scalable & elastic architecture)**
 * **Understand and use Route 53 (domains & DNS)**
 
+![image](https://user-images.githubusercontent.com/40323661/202064272-c855dbcd-3461-4c5f-9014-c77d65c83c37.png)
+
+
 * Project Omega link : https://lucid.app/lucidchart/703f6119-4838-4bbb-bc7e-be2fb75e89e5/view?page=eNbqbEM6f5NI#
 
 ![image](https://user-images.githubusercontent.com/40323661/176062168-0b953e34-68ae-4e61-bd1a-a8b65b98de56.png)
