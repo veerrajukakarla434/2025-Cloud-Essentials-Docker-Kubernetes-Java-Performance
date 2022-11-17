@@ -39,3 +39,4 @@
 
 ![image](https://user-images.githubusercontent.com/40323661/176063987-a518ab4f-102d-4c4a-949b-797f225bdb91.png)
 
+* AWS PDF Guyde -> https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
