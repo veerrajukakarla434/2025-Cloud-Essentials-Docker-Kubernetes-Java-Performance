@@ -1,3 +1,10 @@
 # Docker Tutorial
 
 ![image](https://github.com/user-attachments/assets/730ba301-e1a4-49d6-8318-4856e8dc8039)
+
+
+#### What is Docker?
+
+![image](https://github.com/user-attachments/assets/9af06759-1cce-4bf0-8111-e8caefdd264d)
+
+![image](https://github.com/user-attachments/assets/d395678f-ee2a-4bec-97c9-5cf3b8cb3355)
